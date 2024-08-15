@@ -1,0 +1,3 @@
+[submodule "vechain-sdk-js"]
+	path = vechain-sdk-js
+	url = git@github.com:vechain/vechain-sdk-js.git
